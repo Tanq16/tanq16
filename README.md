@@ -4,7 +4,7 @@
 
 ### I'm currently learning stuff like Binary Exploitation, Networking Infrastructure, Secure designs and Scapy.
 
-## Visit my [Portfolio](https://tanishq.page) to knwo more!
+## Visit my [Portfolio](https://tanishq.page) to know more!
 
 [![Tanishq's github stats](https://github-readme-stats.vercel.app/api?username=tanq16&hide=stars,issues&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
