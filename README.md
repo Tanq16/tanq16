@@ -1,8 +1,6 @@
 # Hi, I'm Tanishq 👋
 
-### I'm a student at Georgia Tech pursuing my Master's in Cybersecurity.
-
-### I'm currently learning stuff like Binary Exploitation, Networking Infrastructure, Secure designs and Scapy.
+### I'm a Cybersecurity Practician working as a Security Engineer and a graduate from Georgia Tech.
 
 ## Visit my [Portfolio](https://tanishq.page) to know more!
 
