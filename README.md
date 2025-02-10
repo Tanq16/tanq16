@@ -1,5 +1,5 @@
-<a href="https://github.com/tanq16"><img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=tanq16&theme=catppuccin_mocha&show_icons=true&hide_rank=true&hide_border=true&custom_title=My%20GitHub%20Stats&random=14" /></a>
-<a href="https://github.com/tanq16"><img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanq16&hide_progress=true&theme=catppuccin_mocha&hide_border=true&random=14" /></a>
+<a href="https://github.com/tanq16"><img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=tanq16&theme=catppuccin_mocha&show_icons=true&hide_rank=true&hide_border=true&custom_title=My%20GitHub%20Stats&random=114" /></a>
+<a href="https://github.com/tanq16"><img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanq16&hide_progress=true&theme=catppuccin_mocha&hide_border=true&random=114" /></a>
 
 
 ---
