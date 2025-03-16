@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/tanq16">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanq16&show_icons=true&hide_border=true&custom_title=GitHub%20Stats&theme=material-palenight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanq16&show_icons=true&hide_border=true&custom_title=GitHub%20Stats&theme=material-palenight&random=11" />
   </a>
 </div>
 
