@@ -1,11 +1,13 @@
-<div align="center">
+<div>
   <a href="https://github.com/tanq16">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanq16&show_icons=true&hide_border=true&custom_title=GitHub%20Stats&theme=material-palenight" />
   </a>
 </div>
 
-<div align="center">
-  <h1>Featured Projects</h1>
+<br>
+
+<div>
+  <h1>Projects</h1>
 </div>
 
 | Project & Description | Stars |
@@ -22,7 +24,7 @@
 | [Raikiri](https://github.com/tanq16/raikiri): no-nonsense self-hosted media server |![Stars](https://img.shields.io/github/stars/tanq16/raikiri?style=for-the-badge&label=★&color=cfaaf9&labelColor=363a4f) |
 | [Nottif](https://github.com/tanq16/nottif): non-nonsense self-hosted notification aggregator |![Stars](https://img.shields.io/github/stars/tanq16/nottif?style=for-the-badge&label=★&color=cfaaf9&labelColor=363a4f) |
 | [LinkSnapper](https://github.com/tanq16/linksnapper): simple self-hosted bookmarks with fuzzy search |![Stars](https://img.shields.io/github/stars/tanq16/linksnapper?style=for-the-badge&label=★&color=cfaaf9&labelColor=363a4f) |
-| [Yamanaka](https://github.com/tanq16/yamanaka): fully vibe coded obsidian sync plugin |![Stars](https://img.shields.io/github/stars/tanq16/raikiri?style=for-the-badge&label=★&color=cfaaf9&labelColor=363a4f) |
+| [Kaname](https://github.com/tanq16/kaname): elegant self-hosted task-runner application |![Stars](https://img.shields.io/github/stars/tanq16/kaname?style=for-the-badge&label=★&color=cfaaf9&labelColor=363a4f) |
 | [Deku](https://github.com/tanq16/deku): simple self-hosted list, kanban, calendar task manager |![Stars](https://img.shields.io/github/stars/tanq16/deku?style=for-the-badge&label=★&color=cfaaf9&labelColor=363a4f) |
 | [RAGaaS](https://github.com/tanq16/RAGaaS): simple RAG implementation with Ollama and Qdrant |![Stars](https://img.shields.io/github/stars/tanq16/RAGaaS?style=for-the-badge&label=★&color=cfaaf9&labelColor=363a4f) |
 | [SubDextract](https://github.com/tanq16/subdextract): sub directory enumeration tool |![Stars](https://img.shields.io/github/stars/tanq16/subdextract?style=for-the-badge&label=★&color=cfaaf9&labelColor=363a4f) |
