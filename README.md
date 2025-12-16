@@ -21,7 +21,5 @@
 | [CLI Productivity Suite](https://github.com/tanq16/cli-productivity-suite): dotfile suite for Linux and MacOS |![Stars](https://img.shields.io/github/stars/tanq16/cli-productivity-suite?style=for-the-badge&label=★&color=cfaaf9&labelColor=363a4f) |
 | [Anbu](https://github.com/tanq16/anbu): CLI tool for performing everyday tasks with ease |![Stars](https://img.shields.io/github/stars/tanq16/anbu?style=for-the-badge&label=★&color=cfaaf9&labelColor=363a4f) |
 | [Raikiri](https://github.com/tanq16/raikiri): no-nonsense self-hosted media server |![Stars](https://img.shields.io/github/stars/tanq16/raikiri?style=for-the-badge&label=★&color=cfaaf9&labelColor=363a4f) |
-| [Kaname](https://github.com/tanq16/kaname): elegant self-hosted task-runner application |![Stars](https://img.shields.io/github/stars/tanq16/kaname?style=for-the-badge&label=★&color=cfaaf9&labelColor=363a4f) |
 | [LinkSnapper](https://github.com/tanq16/linksnapper): simple self-hosted bookmarks with fuzzy search |![Stars](https://img.shields.io/github/stars/tanq16/linksnapper?style=for-the-badge&label=★&color=cfaaf9&labelColor=363a4f) |
 | [Link Hub](https://github.com/tanq16/link-hub): helpful resources for cybersecurity and more |![Stars](https://img.shields.io/github/stars/tanq16/link-hub?style=for-the-badge&label=★&color=cfaaf9&labelColor=363a4f) |
-| [Nottif](https://github.com/tanq16/nottif): non-nonsense self-hosted notification aggregator |![Stars](https://img.shields.io/github/stars/tanq16/nottif?style=for-the-badge&label=★&color=cfaaf9&labelColor=363a4f) |
