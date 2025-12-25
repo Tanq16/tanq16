@@ -1,12 +1,4 @@
 <div>
-  <a href="https://github.com/tanq16">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanq16&show_icons=true&hide_border=true&custom_title=GitHub%20Stats&theme=material-palenight" />
-  </a>
-</div>
-
-<br>
-
-<div>
   <h1>Projects</h1>
 </div>
 
