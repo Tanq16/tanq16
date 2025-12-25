@@ -1,7 +1,3 @@
-<div>
-  <h1>Projects</h1>
-</div>
-
 | Project & Description | Stars |
 |---------|:---------:|
 | [ExpenseOwl](https://github.com/tanq16/expenseowl): simple, beautiful, self-hosted expense tracker |![Stars](https://img.shields.io/github/stars/tanq16/expenseowl?style=for-the-badge&label=★&color=cfaaf9&labelColor=363a4f) |
